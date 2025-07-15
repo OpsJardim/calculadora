@@ -2,7 +2,7 @@
 
 Projeto de uma calculadora funcional e responsiva desenvolvida com **HTML5**, **CSS3** e **JavaScript puro**, como parte do meu processo de aprendizado prático na área de desenvolvimento front-end.
 
-> Baseado no conteúdo do vídeo: [Como Fazer uma Calculadora com JavaScript](https://youtu.be/HQ_Zh4qVKe4?si=KBpA0QR5GJonva4s)
+> Baseado no conteúdo do vídeo: [How to Create a SIMPLE and MODERN CALCULATOR with HTML, CSS and JavaScript](https://youtu.be/HQ_Zh4qVKe4?si=KBpA0QR5GJonva4s)
 
 ---
 
@@ -31,4 +31,4 @@ Projeto de uma calculadora funcional e responsiva desenvolvida com **HTML5**, **
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone https://github.com/OpsJardim/calculadora.git
