@@ -1,4 +1,4 @@
-# 🧮 Calculadora Web Responsiva
+# Calculadora Web Responsiva
 
 Projeto de uma calculadora funcional e responsiva desenvolvida com **HTML5**, **CSS3** e **JavaScript puro**, como parte do meu processo de aprendizado prático na área de desenvolvimento front-end.
 
